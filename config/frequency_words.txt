@@ -29,7 +29,17 @@ GDP
 牛市
 熊市
 
-
+科技
+网络
+互联网
+电脑
+手机
+人工智能
+国产
+AI
+操作系统
+windows
+android
 DeepSeek
 梁文锋
 华为
@@ -48,6 +58,7 @@ DJI
 腾讯
 微信
 马化腾
+美团
 芯片
 光刻机
 科技
@@ -64,7 +75,6 @@ NVIDIA
 AMD
 intel
 英特尔
-电脑
 谷歌
 google
 gemini
@@ -74,16 +84,12 @@ chatgpt
 openai
 sora
 Anthropic
-ai
-人工智能
 苹果
 iphone
 ipad
 mac
 ios
 
-
-国产
 中国
 美国
 日本
